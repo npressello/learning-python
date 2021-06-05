@@ -1,0 +1,10 @@
+buenos aires: 7406520
+cordoba: 3835293
+rosario: 2454645
+san miguel: 1694327
+mendoza: 1338482
+neuquen: 1141301
+mar del plata: 935639
+la plata: 899523
+resistencia: 847321
+rio gallegos: 739215
